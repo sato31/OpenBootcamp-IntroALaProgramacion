@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClaseMultiple/ClaseMultiple.iml" filepath="$PROJECT_DIR$/ClaseMultiple/ClaseMultiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerenciaPolimorfismoEInterfaces.iml" filepath="$PROJECT_DIR$/HerenciaPolimorfismoEInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClaseMultiple/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/ClaseMultiple/Interfaces/Interfaces.iml" />
+    </modules>
+  </component>
+</project>
